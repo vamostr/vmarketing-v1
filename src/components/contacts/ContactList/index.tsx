@@ -1,0 +1,1 @@
+<content>export { ContactList } from './ContactList';</content>

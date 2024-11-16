@@ -1,0 +1,1 @@
+<content>export { ContactTags } from './ContactTags';</content>
